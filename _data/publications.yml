@@ -19,4 +19,15 @@ main:
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/IJRR.png
+
+  - title: "Robust Localization of Occluded Targets in Aerial Manipulation via Range-Only Mapping"
+    authors: Xiaoyu Zhang, <strong>Yin Zhang</strong>, Peidong Liu, Shiyu Zhao
+    conference_short: RAL
+    conference: IEEE Robotics and Automation Letters <strong>(RAL)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Presentation in ICRA 2022
     image: ./assets/img/TASE.png
