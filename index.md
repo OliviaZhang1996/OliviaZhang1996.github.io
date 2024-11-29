@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a fifth-year Ph.D. candidate specializing in robotics and computer vision, focusing on vision-based state estimation, domain adaptation, and event cameras. My research has been published in leading journals and conferences such as TASE, IJRR, JFR, RAL, ICRA, and IROS. I am passionate about advancing intelligent systems for real-world applications. I am actively seeking postdoctoral opportunities to apply my skills and contribute to innovative teams in robotics, AI, or related fields.
 
 ## Research Interests
 
