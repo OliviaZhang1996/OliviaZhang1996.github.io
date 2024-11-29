@@ -61,6 +61,24 @@ main:
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/CTT.png
-    
 
+  - title: "MS‐SLAM: Memory‐Efficient Visual SLAM With Sliding Window Map Sparsification"
+    authors: Xiaoyu Zhang, Jinhu Dong, <strong>Yin Zhang</strong>, Yunhui Liu*
+    conference_short:  JFR
+    conference: Journal of Field Robotics <strong>(JFR)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/JFR.png
+    
+  - title: "Global-Local MAV Detection Under Challenging Conditions Based on Appearance and Motion"
+    authors: Hanqing Guo, Ye Zheng, <strong>Yin Zhang</strong>, Shiyu Zhao*
+    conference_short:  TITS
+    conference: IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/TITS.png
 
