@@ -10,3 +10,13 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Presentation in ICRA@40
     image: ./assets/img/TASE.png
+    
+  - title: "A Bearing-Angle Approach for Unknown Target Motion Analysis based on Visual Measurements"
+    authors: Zian Ning, <strong>Yin Zhang</strong>, Jianan Li, Zhang Chen, Shiyu Zhao
+    conference_short: IJRR
+    conference: The International Journal of Robotics Research <strong>(IJRR)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/TASE.png
