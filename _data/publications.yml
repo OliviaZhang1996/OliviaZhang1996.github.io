@@ -1,7 +1,7 @@
 main:
 
   - title: "Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network"
-    authors: <strong>Yin Zhang</strong>, Jinhong Deng, Peidong Liu, Wen Li, Shiyu Zhao
+    authors: <strong>Yin Zhang</strong>, Jinhong Deng, Peidong Liu, Wen Li, Shiyu Zhao*
     conference_short: TASE
     conference: IEEE Transactions on Automation Science and Engineering <strong>(TASE)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
@@ -12,7 +12,7 @@ main:
     image: ./assets/img/TASE.png
     
   - title: "A Bearing-Angle Approach for Unknown Target Motion Analysis based on Visual Measurements"
-    authors: Zian Ning, <strong>Yin Zhang</strong>, Jianan Li, Zhang Chen, Shiyu Zhao
+    authors: Zian Ning, <strong>Yin Zhang</strong>, Jianan Li, Zhang Chen, Shiyu Zhao*
     conference_short: IJRR
     conference: The International Journal of Robotics Research <strong>(IJRR)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
@@ -22,7 +22,7 @@ main:
     image: ./assets/img/IJRR.png
 
   - title: "Robust Localization of Occluded Targets in Aerial Manipulation via Range-Only Mapping"
-    authors: Xiaoyu Zhang, <strong>Yin Zhang</strong>, Peidong Liu, Shiyu Zhao
+    authors: Xiaoyu Zhang, <strong>Yin Zhang</strong>, Peidong Liu, Shiyu Zhao*
     conference_short: RAL
     conference: IEEE Robotics and Automation Letters <strong>(RAL)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
@@ -33,7 +33,7 @@ main:
     image: ./assets/img/RAL.png
 
   - title: "Uncertainty-Aware Semi-Supervised Semantic Key Point Detection via Bundle Adjustment"
-    authors: Kai Li, <strong>Yin Zhang</strong>, Shiyu Zhao
+    authors: Kai Li, <strong>Yin Zhang</strong>, Shiyu Zhao*
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
@@ -41,5 +41,26 @@ main:
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/IROS.png
+
+  - title: "A Real-to-Sim-to-Real Approach for Vision-Based Autonomous MAV-Catching-MAV"
+    authors: Zian Ning, <strong>Yin Zhang</strong>, Shiyu Zhao*
+    conference_short: US
+    conference: Unmmaned Systems <strong>(US)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/US.png
+
+  - title: "Comparison of Different Pseudo-Linear Estimators for Vision-based Target Motion Estimation"
+    authors: Zian Ning, <strong>Yin Zhang</strong>, Shiyu Zhao*
+    conference_short:  CTT
+    conference: Control Theory and Technology <strong>(CTT)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/CTT.png
+    
 
 
