@@ -30,4 +30,16 @@ main:
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Presentation in ICRA 2022
-    image: ./assets/img/TASE.png
+    image: ./assets/img/RAL.png
+
+  - title: "Uncertainty-Aware Semi-Supervised Semantic Key Point Detection via Bundle Adjustment"
+    authors: Kai Li, <strong>Yin Zhang</strong>, Shiyu Zhao
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/IROS.png
+
+
