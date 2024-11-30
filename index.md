@@ -13,10 +13,12 @@ I am a fifth-year Ph.D. candidate specializing in robotics and computer vision, 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2020]** I am going to ICRA@40 to present our research work about domain adaptation.
+- **[Aug. 2020]** Our paper about map sparsification is accepted to JFR.
+- **[Jun. 2020]** Our paper about pose estimation is accepted to IROS.
+- **[Mar. 2024]** Our paper about drone detection is accepted to TITS.
+- **[Feb. 2024]** Our paper about domain adaptation is accepted to TASE.
+- **[Jan. 2024]** Our paper about vision-based motion estimation is accepted to IJRR.
 
 {% include_relative _includes/publications.md %}
 
