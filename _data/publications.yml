@@ -4,10 +4,10 @@ main:
     authors: <strong>Yin Zhang</strong>, Jinhong Deng, Peidong Liu, Wen Li, Shiyu Zhao*
     conference_short: TASE
     conference: IEEE Transactions on Automation Science and Engineering <strong>(TASE)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://arxiv.org/abs/2403.16669
+    code: https://github.com/WindyLab/M3D
+    page: https://github.com/WindyLab/M3D
+    bibtex: https://github.com/WindyLab/M3D
     notes: Presentation in ICRA@40
     image: ./assets/img/TASE.png
     
@@ -15,20 +15,17 @@ main:
     authors: Zian Ning, <strong>Yin Zhang</strong>, Jianan Li, Zhang Chen, Shiyu Zhao*
     conference_short: IJRR
     conference: The International Journal of Robotics Research <strong>(IJRR)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://arxiv.org/abs/2401.17117
+    code: https://github.com/WindyLab/Bearing-angle
+    page: https://github.com/WindyLab/Bearing-angle
+    bibtex: https://github.com/WindyLab/Bearing-angle
     image: ./assets/img/IJRR.png
 
   - title: "Robust Localization of Occluded Targets in Aerial Manipulation via Range-Only Mapping"
     authors: Xiaoyu Zhang, <strong>Yin Zhang</strong>, Peidong Liu, Shiyu Zhao*
     conference_short: RAL
     conference: IEEE Robotics and Automation Letters <strong>(RAL)</strong>, 2022.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://ieeexplore.ieee.org/document/9691791
     notes: Presentation in ICRA 2022
     image: ./assets/img/RAL.png
 
@@ -36,49 +33,43 @@ main:
     authors: Kai Li, <strong>Yin Zhang</strong>, Shiyu Zhao*
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://shiyuzhao.westlake.edu.cn/IROS2024shangchuan.pdf
+    code: https://github.com/WindyLab/semi-super-skp
+    page: https://github.com/WindyLab/semi-super-skp
+    bibtex: https://github.com/WindyLab/semi-super-skp
     image: ./assets/img/IROS.png
 
   - title: "A Real-to-Sim-to-Real Approach for Vision-Based Autonomous MAV-Catching-MAV"
     authors: Zian Ning, <strong>Yin Zhang</strong>, Shiyu Zhao*
     conference_short: US
     conference: Unmmaned Systems <strong>(US)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://shiyuzhao.westlake.edu.cn/202405ningzian.pdf
     image: ./assets/img/US.png
 
   - title: "Comparison of Different Pseudo-Linear Estimators for Vision-based Target Motion Estimation"
     authors: Zian Ning, <strong>Yin Zhang</strong>, Shiyu Zhao*
     conference_short:  CTT
     conference: Control Theory and Technology <strong>(CTT)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://shiyuzhao.westlake.edu.cn/2023CTT_Ning.pdf
     image: ./assets/img/CTT.png
 
   - title: "MS‐SLAM: Memory‐Efficient Visual SLAM With Sliding Window Map Sparsification"
     authors: Xiaoyu Zhang, Jinhu Dong, <strong>Yin Zhang</strong>, Yunhui Liu*
     conference_short:  JFR
     conference: Journal of Field Robotics <strong>(JFR)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://onlinelibrary.wiley.com/doi/10.1002/rob.22431
+    code: https://github.com/fishmarch/MS-SLAM
+    page: https://github.com/fishmarch/MS-SLAM
+    bibtex: https://github.com/fishmarch/MS-SLAM
     image: ./assets/img/JFR.png
     
   - title: "Global-Local MAV Detection Under Challenging Conditions Based on Appearance and Motion"
     authors: Hanqing Guo, Ye Zheng, <strong>Yin Zhang</strong>, Shiyu Zhao*
     conference_short:  TITS
     conference: IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://ieeexplore.ieee.org/abstract/document/10492655
+    code: https://github.com/WindyLab/Global-Local-MAV-Detection
+    page: https://github.com/WindyLab/Global-Local-MAV-Detection
+    bibtex: https://github.com/WindyLab/Global-Local-MAV-Detection
     image: ./assets/img/TITS.png
 
