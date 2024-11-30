@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a fifth-year Ph.D. candidate specializing in robotics and computer vision, under the supervision of  <li><a href="https://2025.ieee-icra.org"><autocolor> Prof. Shiyu Zhao </autocolor></a></li>. I also worked with Prof. Peidong Liu and Prof. Wen Li. Before my doctoral studies, I earned a Bachelor's degree from Tianjin University (2017) and a Master's degree from Beihang University (2020). I am passionate about advancing intelligent systems for real-world applications. I am actively seeking postdoctoral opportunities to apply my skills and contribute to innovative teams in robotics, AI, or related fields.
+I am a fifth-year Ph.D. candidate specializing in robotics and computer vision, under the supervision of <a href="https://2025.ieee-icra.org"><autocolor> Prof. Shiyu Zhao </autocolor></a>. I also worked with Prof. Peidong Liu and Prof. Wen Li. Before my doctoral studies, I earned a Bachelor's degree from Tianjin University (2017) and a Master's degree from Beihang University (2020). I am passionate about advancing intelligent systems for real-world applications. I am actively seeking postdoctoral opportunities to apply my skills and contribute to innovative teams in robotics, AI, or related fields.
 
 ## Research Interests
 
