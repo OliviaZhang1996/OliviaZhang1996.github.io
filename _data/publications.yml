@@ -73,3 +73,10 @@ main:
     bibtex: https://github.com/WindyLab/Global-Local-MAV-Detection
     image: ./assets/img/TITS.png
 
+  - title: "Omnibot: A Scalable Vision-Based Robot Swarm Platform"
+    authors: Zhao Ma, Jiachen Liang, Hongyi Wang, Shiliang Guo, Peidong Huo, <strong>Yin Zhang</strong>, Shiyu Zhao*
+    conference_short:  ICCA
+    conference: International Conference on Control and Automation <strong>(ICCA)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10591921
+    image: ./assets/img/ICCA.png
+
