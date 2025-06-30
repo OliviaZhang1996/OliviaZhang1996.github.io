@@ -1,4 +1,13 @@
 main:
+  - title: "EvDetMAV: Generalized MAV Detection from Moving Event Cameras"
+    authors: <strong>Yin Zhang</strong>, Zian Ning, Xiaoyu Zhang, Shiliang Guo, Peidong Liu, Shiyu Zhao*
+    conference_short: RAL
+    conference: IEEE Robotics and Automation Letters <strong>(RAL)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2506.19416
+    code: https://github.com/WindyLab/EvDetMAV
+    page: https://github.com/WindyLab/EvDetMAV
+    bibtex: https://github.com/WindyLab/EvDetMAV
+    image: ./assets/img/EvDetMAV.png
 
   - title: "Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network"
     authors: <strong>Yin Zhang</strong>, Jinhong Deng, Peidong Liu, Wen Li, Shiyu Zhao*
