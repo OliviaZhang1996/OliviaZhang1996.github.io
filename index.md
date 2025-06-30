@@ -12,7 +12,7 @@ I am a fifth-year Ph.D. candidate specializing in robotics and computer vision, 
 - **Computer Vision:** object detection, 6D pose estimation, domain adaptation, event camera
   
 ## News
-
+- **[Jun. 2025]** Our paper about the event camera is accepted by RAL.
 - **[Sep. 2024]** I am going to ICRA@40 to present our research work about domain adaptation.
 - **[Aug. 2024]** Our paper about map sparsification is accepted by JFR.
 - **[Jun. 2024]** Our paper about pose estimation is accepted by IROS.
