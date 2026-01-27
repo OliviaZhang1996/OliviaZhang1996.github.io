@@ -11,5 +11,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
+   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856"><autocolor>IEEE Transactions on Robotics (T-RO)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856"><autocolor>IEEE Transactions on Automation Science and Engineering (TASE)</autocolor></a></li>
+   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856"><autocolor>IEEE Robotics and Automation Letters (RAL)</autocolor></a></li>
 </ul>
