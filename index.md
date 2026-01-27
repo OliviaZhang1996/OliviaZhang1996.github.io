@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a fifth-year Ph.D. candidate specializing in robotics and computer vision, under the supervision of <a href="https://shiyuzhao.westlake.edu.cn"><autocolor> Prof. Shiyu Zhao</autocolor></a>. I also worked with <a href="https://ethliup.github.io"><autocolor> Prof. Peidong Liu </autocolor></a> and <a href="https://wenli-vision.github.io"><autocolor> Prof. Wen Li</autocolor></a>. Before my doctoral studies, I earned a Bachelor's degree from Tianjin University (2017) and a Master's degree from Beihang University (2020). I am passionate about advancing intelligent systems for real-world applications. I am actively seeking postdoctoral opportunities to apply my skills and contribute to innovative teams in robotics, AI, or related fields.
+I obtained my Ph.D. degree in September 2025, specializing in robotics and computer vision, under the supervision of <a href="https://shiyuzhao.westlake.edu.cn"><autocolor> Prof. Shiyu Zhao</autocolor></a>. I also worked with <a href="https://ethliup.github.io"><autocolor> Prof. Peidong Liu </autocolor></a> and <a href="https://wenli-vision.github.io"><autocolor> Prof. Wen Li</autocolor></a>. Before my doctoral studies, I earned a Bachelor's degree from Tianjin University (2017) and a Master's degree from Beihang University (2020). I am passionate about advancing intelligent systems for real-world applications. I am actively seeking postdoctoral opportunities to apply my skills and contribute to innovative teams in robotics, AI, or related fields.
 
 ## Research Interests
 
@@ -12,6 +12,7 @@ I am a fifth-year Ph.D. candidate specializing in robotics and computer vision, 
 - **Computer Vision:** object detection, 6D pose estimation, domain adaptation, event camera
   
 ## News
+- **[Jan. 2026]** Our paper about target motion estimation is accepted by TRO.
 - **[Jun. 2025]** Our paper about the event camera is accepted by RAL.
 - **[Sep. 2024]** I am going to ICRA@40 to present our research work about domain adaptation.
 - **[Aug. 2024]** Our paper about map sparsification is accepted by JFR.
