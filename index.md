@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral researcher at the University of Hong Kong, under the supervision of <a href="https://www.ai.hku.hk/people/academic-staff/jpan"><autocolor> Prof. Jia Pan</autocolor></a>. I obtained my Ph.D. degree in September 2025, specializing in robotics and computer vision, under the supervision of <a href="https://shiyuzhao.westlake.edu.cn"><autocolor> Prof. Shiyu Zhao</autocolor></a>. I also worked with <a href="https://ethliup.github.io"><autocolor> Prof. Peidong Liu </autocolor></a> and <a href="https://wenli-vision.github.io"><autocolor> Prof. Wen Li</autocolor></a>. Before my doctoral studies, I earned a Bachelor's degree from Tianjin University (2017) and a Master's degree from Beihang University (2020). I am passionate about advancing intelligent systems for real-world applications. 
+I am a postdoctoral researcher at the University of Hong Kong, under the supervision of <a href="https://www.ai.hku.hk/people/academic-staff/jpan"><autocolor> Prof. Jia Pan</autocolor></a>. I obtained my Ph.D. degree from Zhejiang University and Westlake University in September 2025, specializing in robotics and computer vision, under the supervision of <a href="https://shiyuzhao.westlake.edu.cn"><autocolor> Prof. Shiyu Zhao</autocolor></a>. I also worked with <a href="https://ethliup.github.io"><autocolor> Prof. Peidong Liu </autocolor></a> and <a href="https://wenli-vision.github.io"><autocolor> Prof. Wen Li</autocolor></a>. Before my doctoral studies, I earned a Bachelor's degree from Tianjin University (2017) and a Master's degree from Beihang University (2020). I am passionate about advancing intelligent systems for real-world applications. 
 
 ## Research Interests
 
